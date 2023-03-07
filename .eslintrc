@@ -303,7 +303,7 @@
       "scroll", "scrollbars", "scrollBy", "scrollTo", "scrollX", "scrollY",
       "self", "sessionStorage", "status", "statusbar", "stop",
       "toolbar", "top"],
-    // Comment to test push to origin issues
+    // Comment to test push to origin issues 
     "no-tabs": "error",
     "no-useless-escape": "off",
     "no-whitespace-before-property": "error",
